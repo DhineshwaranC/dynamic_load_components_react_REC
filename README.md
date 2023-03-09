@@ -1,4 +1,4 @@
-![AD Banner Banner](https://user-images.githubusercontent.com/109229046/224106233-e58f8414-1784-402e-ace7-927b0bf1d4bd.png)
+
 
 
 # </>  AD Banner Application
@@ -23,4 +23,3 @@ show a variety of ads based on user preferences and targeted advertising.
 ```
 
 ## 👨‍💻Technical Architecture:
-![HOME COMPONENT](https://user-images.githubusercontent.com/109229046/224114850-49652f8e-570a-4791-8506-263daae02010.png)
