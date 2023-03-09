@@ -23,3 +23,4 @@ show a variety of ads based on user preferences and targeted advertising.
 ```
 
 ## 👨‍💻Technical Architecture:
+![HOME COMPONENT](https://user-images.githubusercontent.com/126777654/224118152-c15f3e3f-3c74-42fc-85a0-e4573c9597fd.png)
